@@ -33,3 +33,9 @@
 
 # Mac OS X
 .DS_Store
+
+# Virtual Environments
+.venv/
+
+# Python cache files
+__pycache__/
